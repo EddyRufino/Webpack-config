@@ -1,5 +1,24 @@
 # Webpack Config
 
-1.- npm install
-2.- npm run build:dev "Modo desarrollo" pero quieres pasarlo a "modo producción" ejecura npm run build
-3.- npm start
+Proyecto base para comenzar a desarrollar aplicaciones utilizando Webpack.
+
+### Ejecutar:
+Reconstruir el modulo de node:
+```
+npm install
+```
+Para ejecutar el proyecto:
+```
+npm start
+```
+
+### Notas:
+Si estas en desarrollo:
+
+```
+npm run build:dev
+```
+Si estas en producción:
+```
+npm run build
+```
